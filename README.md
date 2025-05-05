@@ -1,3 +1,5 @@
+![Header](img/github-header-image.png)
+
 <h1 align="center">👋 Halo, saya Dzikrie Wildani!</h1>
 <h3 align="center">Siswa TI | Backend Enthusiast | AI Explorer</h3>
 

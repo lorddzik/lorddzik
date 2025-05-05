@@ -1,6 +1,9 @@
 ![Header](img/github-header-image.png)
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">👋 Halo, saya Dzikrie Wildani!</h1>
+<h3 align="center">Siswa TI | Backend Enthusiast | AI Explorer</h3>
+
+<p align="center">Saya adalah siswa teknologi informasi yang suka banget ngoprek backend dan menjelajahi dunia kecerdasan buatan. Fokus utama saya saat ini ada di pengembangan backend menggunakan Laravel, tapi saya juga selalu terbuka untuk belajar hal baru di dunia teknologi.</p>
 
 ###
 

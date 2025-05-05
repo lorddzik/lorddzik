@@ -31,8 +31,9 @@
 
 ###
 
-## 🐍 My Contribution Snake
-![Snake animation](https://github.com/lorddzik/lorddzik/blob/output/snake.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lorddzik/lorddzik/output/snake.svg" alt="Snake animation" />
 
 
 ###

@@ -14,7 +14,9 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,cpp,laravel,python,php,nodejs,java,vim,git,github)](https://skillicons.dev)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lorddzik/lorddzik/output/snake.svg" alt="Snake animation" />
 
 ###
 

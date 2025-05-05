@@ -29,9 +29,9 @@
 
 ###
 
-<br clear="both">
+## 🐍 My Contribution Snake
+![Snake animation](https://github.com/lorddzik/lorddzik/blob/output/snake.svg)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 

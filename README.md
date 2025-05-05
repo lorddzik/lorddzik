@@ -52,3 +52,5 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+
+> "Belajar teknologi bukan soal cepat-cepat jadi ahli, tapi soal terus penasaran dan nggak berhenti ngulik." 🚀
